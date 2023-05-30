@@ -7,6 +7,5 @@ Sou um entusiasta da tecnologia e do mundo open-source 👾. Atualmente tenho di
 
 ![](https://img.shields.io/badge/JavaScript-React-blue)
 ![](https://img.shields.io/badge/QueryLanguage-SQL-green)
-![](https://img.shields.io/badge/CSS-Bootstrap-blueviolet)
-![](https://img.shields.io/badge/CSS-Tailwind-blueviolet)
-![](https://img.shields.io/badge/HML-SEO-orange)
+![](https://img.shields.io/badge/CSS-Sass-blueviolet)
+![](https://img.shields.io/badge/NodeJS-EJS-orange)
